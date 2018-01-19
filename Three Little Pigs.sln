@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three Little Pigs.CSharp.Plugins", "Three Little Pigs.CSharp.Plugins.csproj", "{FF4E87B2-A465-77F8-FDFF-EC328A989EC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three Little Pigs.CSharp", "Three Little Pigs.CSharp.csproj", "{81474B84-8811-41EB-4C6A-E2171876BA6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three Little Pigs.CSharp.Editor.Plugins", "Three Little Pigs.CSharp.Editor.Plugins.csproj", "{8E14476D-EC79-5879-0020-BC6EE1C2008E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF4E87B2-A465-77F8-FDFF-EC328A989EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4E87B2-A465-77F8-FDFF-EC328A989EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4E87B2-A465-77F8-FDFF-EC328A989EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4E87B2-A465-77F8-FDFF-EC328A989EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81474B84-8811-41EB-4C6A-E2171876BA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81474B84-8811-41EB-4C6A-E2171876BA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81474B84-8811-41EB-4C6A-E2171876BA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81474B84-8811-41EB-4C6A-E2171876BA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E14476D-EC79-5879-0020-BC6EE1C2008E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E14476D-EC79-5879-0020-BC6EE1C2008E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E14476D-EC79-5879-0020-BC6EE1C2008E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E14476D-EC79-5879-0020-BC6EE1C2008E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
